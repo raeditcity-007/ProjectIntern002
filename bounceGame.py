@@ -1,7 +1,7 @@
 from tkinter import *
 import time
 import random
-
+#game bounch ball, buat exe aja nanti
 root = Tk()
 root.title("Bounce")
 root.geometry("500x570")

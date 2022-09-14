@@ -1,9 +1,10 @@
 from tkinter import *
 import time
 import random
+#Bounce Ball Game Python
 #game bounch ball, buat exe aja nanti
 root = Tk()
-root.title("Bounce")
+root.title("Bounce Ball")
 root.geometry("500x570")
 root.resizable(0, 0)
 root.wm_attributes("-topmost", 1)
